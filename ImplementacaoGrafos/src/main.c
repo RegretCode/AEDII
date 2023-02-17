@@ -1,6 +1,6 @@
 /*
 ===============================================================================================================================================
-Nome: Ricardo Coutinho Cordeiro - RGM: 19200371
+Nomes: Lucas Tavares e Ricardo Coutinho Cordeiro
 
 Implementar um programa na linguagem de sua escolha, que permita a representação em memória de um grafo.
 
